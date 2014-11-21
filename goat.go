@@ -1,9 +1,5 @@
 package goat
 
-import (
-       'fmt'
-)
-
 func zcr (buffer []float) int{
      int zcr = 0
      for i := 0; i < len(buffer); i++ {
